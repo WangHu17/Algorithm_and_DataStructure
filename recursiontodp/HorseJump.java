@@ -4,7 +4,7 @@ import org.junit.Test;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 给定棋盘上的两个位置，一个起始点，一个终点，问从起始点走K步到终点有多少种走法。（棋盘是10*9的）
  * @create 2022-06-17 15:36
  */
 public class HorseJump {

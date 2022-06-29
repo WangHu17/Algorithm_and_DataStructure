@@ -3,6 +3,7 @@ package unionfind;
 /**
  * @author wanghu
  * @discrption： 岛屿数量
+ * 一个二维数组，由字符 '0' 和 '1' 组成，'1'代表陆地，上下左右为相连，相连的为一个岛屿，求共有多少个岛屿。
  * @create 2022-06-13 11:11
  */
 public class Island {

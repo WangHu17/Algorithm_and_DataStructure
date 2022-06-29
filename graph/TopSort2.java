@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * @author wanghu
- * @discrption： BFS
+ * @discrption： 拓扑排序，适用于 DirectedGraphNode图结构，BFS方法实现
  * @create 2022-06-14 11:18
  */
 public class TopSort2 {

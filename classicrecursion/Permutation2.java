@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 字符串全排列，剪枝优化
  * @create 2022-06-15 15:35
  */
 public class Permutation2 {

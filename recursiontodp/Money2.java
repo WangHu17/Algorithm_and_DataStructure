@@ -4,7 +4,10 @@ import org.junit.Test;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： arr是面值数组，其中的值都是正数且没有重复。再给定一个正数aim。每个值都认为是一种面值，且认为张数是无限的。
+ * 返回组成aim的方法数
+ * 例如︰arr = {1,2]， aim = 4
+ * 方法如下：1+1+1+1、1+1+2、2+2一共就3种方法，所以返回3
  * @create 2022-06-20 16:14
  */
 public class Money2 {

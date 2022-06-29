@@ -6,7 +6,7 @@ import java.util.*;
 
 /**
  * @author wanghu
- * @discrption： 使用并查集实现
+ * @discrption： 最小生成树：Kruskal算法，使用并查集实现
  * @create 2022-06-14 14:54
  */
 public class Kruskal {

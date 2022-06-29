@@ -5,6 +5,7 @@ import org.junit.Test;
 /**
  * @author wanghu
  * @discrption： 纸条折痕问题
+ * 问题：将一个纸条对折 N 次，从上到下依次打印它的折痕（凹折痕或凸折痕）
  * @create 2022-06-10 10:30
  */
 public class PaperFold {

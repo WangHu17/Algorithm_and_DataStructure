@@ -2,7 +2,7 @@ package recursiontodp;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 最长回文子序列长度
  * @create 2022-06-17 14:59
  */
 public class LongestPalindromicSubsequence {

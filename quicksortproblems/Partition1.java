@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 /**
  * @author wanghu
- * @discrption： 荷兰国旗1
+ * @discrption： 荷兰国旗1，给定一个数组和一个数a，使数组中小于等于a的数放左边，大于a的数放右边。
  * @create 2022-06-06 15:42
  */
 public class Partition1 {

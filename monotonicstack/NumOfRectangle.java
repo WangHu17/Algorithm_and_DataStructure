@@ -2,7 +2,7 @@ package monotonicstack;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 给定一个二维数组matrix，其中的值不是0就是1，返回全部由1组成的子矩形数量。
  * @create 2022-06-29 9:35
  */
 public class NumOfRectangle {

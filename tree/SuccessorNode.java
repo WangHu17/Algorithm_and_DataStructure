@@ -2,7 +2,7 @@ package tree;
 
 /**
  * @author wanghu
- * @discrption： 后继节点
+ * @discrption： 后继节点，找到某个节点在二叉树的中序序列中，它后面的那个节点。
  * @create 2022-06-10 10:19
  */
 public class SuccessorNode {

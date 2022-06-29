@@ -4,7 +4,7 @@ import tree.Node;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 最大的搜索二叉树子树的头节点
  * @create 2022-06-11 15:42
  */
 public class MaxSubBSTHead {

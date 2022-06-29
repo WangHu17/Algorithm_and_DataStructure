@@ -2,7 +2,7 @@ package classicrecursion;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 汉诺塔
  * @create 2022-06-15 14:39
  */
 public class Hanoitower {

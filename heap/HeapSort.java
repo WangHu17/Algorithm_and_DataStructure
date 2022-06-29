@@ -7,7 +7,7 @@ import java.util.Arrays;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 堆排序
  * @create 2022-06-07 10:15
  */
 public class HeapSort {

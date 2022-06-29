@@ -7,7 +7,7 @@ import java.util.Set;
 
 /**
  * @author wanghu
- * @discrption： 使用并查集实现
+ * @discrption： 最小生成树：Prim算法，使用并查集实现
  * @create 2022-06-14 15:35
  */
 public class Prim {

@@ -7,7 +7,11 @@ import java.util.LinkedList;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 滑动窗口的最大值
+ * 假设一个固定大小为W的窗口，依次划过arr
+ * 返回每一次滑出状况的最大值
+ * 例如，arr=[4,3,5,4,3,3,6,7]，W=3
+ * 返回：[5,5,5,4,6,7]
  * @create 2022-06-24 10:19
  */
 public class MaxWindow {

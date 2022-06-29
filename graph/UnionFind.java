@@ -5,7 +5,7 @@ import java.util.Stack;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 并查集的实现
  * @create 2022-06-14 15:14
  */
 public class UnionFind {

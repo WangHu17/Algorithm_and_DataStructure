@@ -4,7 +4,7 @@ import java.util.*;
 
 /**
  * @author wanghu
- * @discrption： BFS
+ * @discrption： 拓扑排序，适用于自己定义的图结构，有出度和入度，BFS方法实现
  * @create 2022-06-14 10:56
  */
 public class TopSort1 {

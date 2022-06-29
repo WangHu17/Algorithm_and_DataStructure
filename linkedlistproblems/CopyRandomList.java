@@ -5,6 +5,7 @@ import java.util.HashMap;
 /**
  * @author wanghu
  * @discrption： 拷贝复杂链表
+ * 链表不仅有next指针指向下一个节点，还有rand指针指向任意的节点（这里的任意节点都是通过next指针相连的节点）。
  * @create 2022-06-08 16:34
  */
 public class CopyRandomList {

@@ -7,7 +7,7 @@ import java.util.Queue;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 二叉树的宽度
  * @create 2022-06-10 9:40
  */
 public class MaxWidth {

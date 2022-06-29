@@ -2,7 +2,7 @@ package tree;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 二叉树节点
  * @create 2022-06-09 11:17
  */
 public class Node {

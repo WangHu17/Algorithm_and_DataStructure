@@ -4,7 +4,7 @@ import tree.Node;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 是否是满二叉树
  * @create 2022-06-10 15:04
  */
 public class IsFBT2 {

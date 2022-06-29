@@ -6,7 +6,7 @@ import java.util.Map;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 最短路径：Dijkstra算法
  * @create 2022-06-14 16:11
  */
 public class Dijkstra {

@@ -2,7 +2,7 @@ package recursiontodp;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 最长公共子序列的长度
  * @create 2022-06-17 14:17
  */
 public class LongestCommonSubsequence {

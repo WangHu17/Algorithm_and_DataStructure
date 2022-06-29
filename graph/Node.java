@@ -4,7 +4,7 @@ import java.util.ArrayList;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 自定义图的点结构
  * @create 2022-06-14 9:47
  */
 public class Node {

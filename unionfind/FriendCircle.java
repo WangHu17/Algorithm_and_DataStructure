@@ -2,7 +2,9 @@ package unionfind;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： Friend Circles（使用数组实现的并查集）
+ * 给定一个N*N的二维数组M，表示N个人之间的认识关系，如果第 i 个人和第 j 个人认识，那么 M[i][j] 和 M[j][i] 都为1，否则为0
+ * （自己和自己肯定认识，所以对角线都是1）。认识关系有传递性，求这个二维数组中有多少个独立的朋友圈（每个朋友圈中的人与其他朋友圈中的人不认识）。
  * @create 2022-06-13 10:08
  */
 public class FriendCircle {

@@ -5,7 +5,7 @@ import java.util.Stack;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 深度优先遍历
  * @create 2022-06-14 10:17
  */
 public class DFS {

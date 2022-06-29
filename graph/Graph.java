@@ -5,7 +5,7 @@ import java.util.HashSet;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 自定义的图结构，及将数组形式的图转化为自己的图结构
  * @create 2022-06-14 9:46
  */
 public class Graph {

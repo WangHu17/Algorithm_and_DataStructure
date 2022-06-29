@@ -6,7 +6,7 @@ import java.util.Stack;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 给定一个只包含正数的数组arr，arr中任何一个子数组sub，一定都可以算出(sub累加和)*(sub中的最小值)是什么，那么所有子数组中，这个值最大的是多少?
  * @create 2022-06-28 16:47
  */
 public class MaxSubArr {

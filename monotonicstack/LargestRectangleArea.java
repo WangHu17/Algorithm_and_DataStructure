@@ -2,7 +2,7 @@ package monotonicstack;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 给定一个数组，代表直方图，求直方图中最大长方形的面积。
  * @create 2022-06-28 17:14
  */
 public class LargestRectangleArea {

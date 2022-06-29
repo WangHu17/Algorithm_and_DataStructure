@@ -4,7 +4,7 @@ import java.util.HashMap;
 
 /**
  * @author wanghu
- * @discrption： 使用加强堆实现
+ * @discrption： 最短路径：Dijkstra算法优化，使用加强堆实现
  * @create 2022-06-15 10:44
  */
 public class Dijkstra2 {

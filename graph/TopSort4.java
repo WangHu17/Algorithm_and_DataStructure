@@ -6,7 +6,7 @@ import java.util.HashMap;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 拓扑排序，适用于 DirectedGraphNode图结构，DFS方法实现(比较每个点的点次，点次即该点通过所有路径走到底经过的点的数量（经过的点可以重复），点次大的排前面。)
  * @create 2022-06-14 11:36
  */
 public class TopSort4 {

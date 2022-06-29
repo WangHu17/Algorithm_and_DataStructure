@@ -4,7 +4,7 @@ import org.junit.Test;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： N皇后问题
  * @create 2022-06-24 9:34
  */
 public class NQueen {

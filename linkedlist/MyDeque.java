@@ -72,12 +72,13 @@ public class MyDeque<V> {
     public V peekTail(){
         return tail==null?null:tail.val;
     }
-}
-class DNode<V> {
-    V val;
-    DNode next;
-    DNode last;
-    public DNode(V val) {
-        this.val = val;
+
+    class DNode<V> {
+        V val;
+        DNode next;
+        DNode last;
+        public DNode(V val) {
+            this.val = val;
+        }
     }
 }

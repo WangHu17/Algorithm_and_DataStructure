@@ -4,7 +4,7 @@ import tree.Node;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 是否是完全二叉树
  * @create 2022-06-11 15:22
  */
 public class IsCBT {

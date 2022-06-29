@@ -4,7 +4,7 @@ import java.util.Stack;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 两个栈实现队列
  * @create 2022-06-06 10:03
  */
 public class TwoStackToQueue {

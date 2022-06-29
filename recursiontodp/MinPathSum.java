@@ -4,7 +4,7 @@ import org.junit.Test;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 返回二维数组最小距离累加和
  * @create 2022-06-20 11:30
  */
 public class MinPathSum {

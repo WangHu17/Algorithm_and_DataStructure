@@ -5,7 +5,7 @@ import java.util.PriorityQueue;
 
 /**
  * @author wanghu
- * @discrption： 合并k个已排序的链表
+ * @discrption： 合并 k个已排序的链表
  * @create 2022-05-18 15:38
  */
 public class MergeKLists {

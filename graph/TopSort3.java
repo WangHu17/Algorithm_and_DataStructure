@@ -7,7 +7,7 @@ import java.util.HashMap;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 拓扑排序，适用于 DirectedGraphNode图结构，DFS方法实现(比较每个点的最大深度，深度大的排前面。)
  * @create 2022-06-14 11:36
  */
 public class TopSort3 {

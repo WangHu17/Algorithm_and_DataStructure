@@ -2,7 +2,7 @@ package linkedlist;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 链表节点
  * @create 2022-05-18 17:22
  */
 public class ListNode {

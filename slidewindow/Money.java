@@ -7,7 +7,9 @@ import java.util.Map;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 货币问题
+ * arr是货币数组，其中的值都是正数。再给定一个正数aim。
+ * 每个值都认为是一张货币，返回组成aim的最少货币数
  * @create 2022-06-28 11:04
  */
 public class Money {

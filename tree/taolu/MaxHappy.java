@@ -2,7 +2,7 @@ package tree.taolu;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 一棵多叉树代表公司结构，每人有个快乐值，发请柬来参见聚会，直接上下级的不能邀请，返回最大的快乐值。
  * @create 2022-06-11 16:35
  */
 public class MaxHappy {

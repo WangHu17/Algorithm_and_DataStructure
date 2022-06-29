@@ -4,7 +4,7 @@ import tree.Node;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 给定一棵二叉树的头节点head，和另外两个节点a和b。返回a和b的最低公共祖先。
  * @create 2022-06-11 16:03
  */
 public class LowestAncestor {

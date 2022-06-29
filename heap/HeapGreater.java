@@ -7,7 +7,7 @@ import java.util.List;
 
 /**
  * @author wanghu
- * @discrption： 加强堆
+ * @discrption： 加强堆的的实现
  * @create 2022-06-07 14:58
  */
 public class HeapGreater<T> {

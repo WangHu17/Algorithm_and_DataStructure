@@ -2,7 +2,7 @@ package linkedlist;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 带泛型的链表节点
  * @create 2022-06-08 10:42
  */
 public class Node<V> {

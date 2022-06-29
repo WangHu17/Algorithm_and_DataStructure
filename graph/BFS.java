@@ -6,7 +6,7 @@ import java.util.Queue;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 宽度优先遍历
  * @create 2022-06-14 10:11
  */
 public class BFS {

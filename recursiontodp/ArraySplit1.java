@@ -4,7 +4,9 @@ import org.junit.Test;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 数组分裂问题1
+ * 给定一个正数数组arr，请把arr中所有的数分成两个集合，尽量让两个集合的累加和接近
+ * 返回：最接近的情况下较小集合的累加和。
  * @create 2022-06-23 9:30
  */
 public class ArraySplit1 {

@@ -4,7 +4,9 @@ import java.util.ArrayList;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 岛屿数量2
+ * 给定3个参数，m，n是代表陆地和海洋的二维数组的行和列，positions是装着陆地位置的二维数组。
+ * 依次根据positions中的位置添加陆地，每添加一块陆地，求出岛屿的数量，最后返回装有岛屿数量的list集合。
  * @create 2022-06-13 15:06
  */
 public class Island2 {

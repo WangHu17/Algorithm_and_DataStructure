@@ -6,7 +6,7 @@ import java.util.Arrays;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 快速排序1，以当前划分区域最右的数 x 作划分值，小于等于 x 的数放左边，大于 x 的数放右边，然后递归执行左边和右边。
  * @create 2022-06-06 15:45
  */
 public class QuickSort1 {

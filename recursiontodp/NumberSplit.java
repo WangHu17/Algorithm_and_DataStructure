@@ -4,7 +4,10 @@ import org.junit.Test;
 
 /**
  * @author wanghu
- * @discrption：
+ * @discrption： 数字分裂问题
+ * 给定一个整数n，将它分裂成多个数，这些数的和等于n，要求分裂的数后面的不能小于前面的。
+ * 例：3的分裂方法有三种，{1、1、1}、{1、2}、{3}。
+ * 求给定的数有多少种裂开的方法。
  * @create 2022-06-22 9:36
  */
 public class NumberSplit {
